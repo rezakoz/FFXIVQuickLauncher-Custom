@@ -452,6 +452,7 @@ namespace XIVLauncher
             }
 #endif
 
+/*
             try
             {
                 if (App.Settings.LauncherLanguage == LauncherLanguage.Russian)
@@ -472,6 +473,7 @@ namespace XIVLauncher
             {
                 // ignored
             }
+*/
 
             if (EnvironmentSettings.IsDisableUpdates)
             {
